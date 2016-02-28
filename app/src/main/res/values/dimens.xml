@@ -1,0 +1,16 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <!--Post Content Activity-->
+    <dimen name="post_content_text_margin">16dp</dimen>
+    <dimen name="post_content_horizontal_spacing">4dp</dimen>
+
+    <!-- Rounded Image View Transformer-->
+    <dimen name="rounded_transformer_border_size">0dp</dimen>
+    <dimen name="rounded_transformer_corner_radius">9dp</dimen>
+
+    <dimen name="avatar_size">18dp</dimen>
+
+</resources>
