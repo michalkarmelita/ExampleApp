@@ -2,6 +2,7 @@
 Example of RecyclerView, RxJava, DI and REST API
 
 Implemented features:
+
 Screen1: 
 A list of post titles. Tapping a cell takes you to Screen2.
  
